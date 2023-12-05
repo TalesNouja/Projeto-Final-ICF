@@ -1,0 +1,4 @@
+Instalar a versão 3.6.5 do Blender no link abaixo:
+
+https://download.blender.org/release/Blender3.6/
+
